@@ -1,7 +1,7 @@
 - course: BSc Software Engineering
   institute: Makerere University 
   dates: 2014 - 2019
-  logo: assets/education/img/mak.png
+  logo: ./assets/education/img/mak.png
   
 - course: Explorer Fellow
   institute: MLH Fellowship
