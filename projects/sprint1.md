@@ -29,3 +29,10 @@ cd into the ayuda-react-site directory
 run "npm i"
 run "npm start"
 Built With
+
+## Try it out
+https://5f875b6768e63a00077876df--brave-franklin-2a5612.netlify.app
+
+## Github Repo
+https://github.com/MLH-Fellowship/ayuda
+
